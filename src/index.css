@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "sahelBold";
+    src: url(../Fonts/Sahel-SemiBold-FD.ttf);
+}
+@font-face {
+    font-family: "sahel";
+    src: url(../Fonts/Sahel-FD.ttf);
+}

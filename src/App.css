@@ -1,0 +1,21 @@
+body{
+    direction: rtl;
+    font-family: "sahel";
+    
+    @apply m-10 p-0 text-balance 
+}
+button{
+    border: none;
+}
+/* .containers{
+    @apply my-10 mx-10 grid justify-center items-center  grid-cols-2
+} */
+.friend-container{
+    @apply grid justify-center items-center my-4 grid-cols-3
+}
+.img-f{
+    @apply w-14 h-14 bg-cover bg-center rounded-full
+}
+.button{
+    @apply  bg-orange-400 rounded-lg px-2 text-sm
+}
